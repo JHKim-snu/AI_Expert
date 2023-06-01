@@ -1,5 +1,6 @@
-# AI_Expert_2021
-* 2021년도 AI 전문가교육과정 실습 자료
-* TA
-  * 이현도 - hdlee@bi.snu.ac.kr
-  * 최원석 - wchoi@bi.snu.ac.kr
+# 2023 AI Expert
+* 2023년도 AI 전문가교육과정 실습 자료
+
+* TA info
+  * 김정현 - junghyunkim@bi.snu.ac.kr
+  * 최수형 - shchoi@bi.snu.ac.kr
