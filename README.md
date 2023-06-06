@@ -6,7 +6,7 @@
     * 서울대학교 협동과정 인공지능 박사과정
     * BI LAB 
     * junghyunkim@bi.snu.ac.kr
-  * 최수형
+  * 신수연
     * 서울대학교 협동과정 인공지능 석사과정
     * BI LAB 
-    * shchoi@bi.snu.ac.kr
+    * syshin@bi.snu.ac.kr
